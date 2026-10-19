@@ -1,0 +1,7 @@
+[2026-10-19T11:14:01Z] === AST ITERATION 1 START | repo=adamchainz/flake8-comprehensions sha=164a5319 ===
+[2026-10-19T11:14:01Z] [iter=1] PHASE START: ast repo=adamchainz/flake8-comprehensions sha=164a5319
+[2026-10-19T11:14:01Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T11:14:06Z] [iter=1] AST chunks built count=1 triples=43180
+[2026-10-19T11:14:06Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/164a53196801719ef6312e4a3d915d374335dea7/.complete
+[2026-10-19T11:14:06Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-10-19T11:14:06Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
