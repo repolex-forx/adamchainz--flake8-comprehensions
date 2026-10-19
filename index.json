@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "flake8-comprehensions",
+  "versions": [
+    {
+      "commit": "164a53196801719ef6312e4a3d915d374335dea7",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:15:35.227359+00:00"
+    }
+  ]
+}
